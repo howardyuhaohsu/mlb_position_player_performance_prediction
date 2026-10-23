@@ -12,7 +12,7 @@ finalproject/
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
-│   └── milestone2_analysis.ipynb
+│   └── milestone2.ipynb
 ├── data/
 │   └── README.md
 └── figures/
